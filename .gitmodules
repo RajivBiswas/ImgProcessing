@@ -1,0 +1,3 @@
+[submodule "ImgProcessing"]
+	path = ImgProcessing
+	url = https://github.com/RajivBiswas/ImgProcessing
